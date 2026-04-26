@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DATA ENGINEERING**
 
-- 👨‍💻 All of my projects are available at [https://github.com/surendra-59](https://github.com/surendra-59)
+- 👨‍💻 All of my projects are available at [https://github.com/surendra-59](https://github.com/surendra-59?tab=repositories)
 
 - 📫 How to reach me **surendrarajbisht@gmail.com**
 
